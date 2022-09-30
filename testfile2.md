@@ -19,3 +19,5 @@ git checkout
 У меня все получилось
 
 git log --graph
+
+git branch - посмотреть список веток из репозитория
