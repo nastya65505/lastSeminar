@@ -19,3 +19,5 @@ git checkout
 У меня все получилось
 
 git log --graph
+
+git merge - имя ветки для слияния с текущей
